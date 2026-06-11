@@ -45,11 +45,11 @@ This error occurred because the lab IAM role does not have permission to list Se
 ## Screenshots
 
 ### 1. Account Identity Panel
-![Account ID](screenshots/annotated_account_id.png)
+![Account ID](screenshots/AWS.png)
 > Shows the Account ID and IAM Username (Lab User) from the AWS Console top menu.
 
 ### 2. myApplications — Access Denied
-![myApplications](screenshots/annotated_my_applications.png)
+![myApplications](screenshots/Screenshot 2026-06-11 171313.png)
 > Shows the myApplications console section with the Access Denied error and the Create Application button.
 
 ---
